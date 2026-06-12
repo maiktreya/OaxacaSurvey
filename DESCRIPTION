@@ -3,7 +3,7 @@ Type: Package
 Title: Survey weights computed for Oaxaca-Blinder decompositions.
 Version: 0.1.0
 Author: Miguel Garcia-Duch
-Maintainer: Miguel Garcia-Duch <miguel.garcia.duch@gmail.com>
+Maintainer: Miguel Garcia-Duch <garciaduchm@gmail.com>
 Description: Enabling estimation of models considering sampling weights.
 License: GPL-3
 Encoding: UTF-8
