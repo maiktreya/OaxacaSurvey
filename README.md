@@ -12,7 +12,7 @@ an r test package implementing the oaxaca-blinder decomposition for survey objec
 Install latest version from:
 
 ```r
-devtools::install_github("iliciuv/OaxacaSurvey)
+devtools::install_github("maiktreya/OaxacaSurvey)
 ```
 #' @param formula An object of class formula: the model formula.
 #' @param data A data frame: containing the variables in the formula, group, and weights.
